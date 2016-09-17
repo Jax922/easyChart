@@ -1,6 +1,6 @@
 {
   "name": "easy-chart",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "echart in react,让图表更简单。so easy!",
   "main": "index.js",
   "scripts": {
