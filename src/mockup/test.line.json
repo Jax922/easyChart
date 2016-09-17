@@ -1,0 +1,474 @@
+{
+  "RetCode": 0,
+  "Action": "GetMetricResponse",
+  "DataSets": {
+    "IORead": [
+      {
+        "Value": 0,
+        "Timestamp": 1473582060
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582120
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582180
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582240
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582300
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582360
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582420
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582480
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582540
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582600
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582660
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582720
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582780
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582840
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473582960
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583020
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583080
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583140
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583200
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583260
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583320
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583380
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583440
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583500
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583560
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583620
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583680
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583740
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583800
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583860
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583920
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473583980
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584040
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584100
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584160
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584220
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584280
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584340
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584400
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584460
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584520
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584580
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584640
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584700
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584760
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584820
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584880
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473584940
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473585000
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473585060
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473585120
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473585180
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473585240
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473585300
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473585360
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473585420
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473585480
+      },
+      {
+        "Value": 0,
+        "Timestamp": 1473585540
+      }
+    ],
+    "IOWrite": [
+      {
+        "Value": 9011,
+        "Timestamp": 1473582060
+      },
+      {
+        "Value": 9420,
+        "Timestamp": 1473582120
+      },
+      {
+        "Value": 8192,
+        "Timestamp": 1473582180
+      },
+      {
+        "Value": 10103,
+        "Timestamp": 1473582240
+      },
+      {
+        "Value": 9420,
+        "Timestamp": 1473582300
+      },
+      {
+        "Value": 7509,
+        "Timestamp": 1473582360
+      },
+      {
+        "Value": 9693,
+        "Timestamp": 1473582420
+      },
+      {
+        "Value": 8192,
+        "Timestamp": 1473582480
+      },
+      {
+        "Value": 8192,
+        "Timestamp": 1473582540
+      },
+      {
+        "Value": 8874,
+        "Timestamp": 1473582600
+      },
+      {
+        "Value": 7372,
+        "Timestamp": 1473582660
+      },
+      {
+        "Value": 9011,
+        "Timestamp": 1473582720
+      },
+      {
+        "Value": 10786,
+        "Timestamp": 1473582780
+      },
+      {
+        "Value": 9420,
+        "Timestamp": 1473582840
+      },
+      {
+        "Value": 6826,
+        "Timestamp": 1473582960
+      },
+      {
+        "Value": 7236,
+        "Timestamp": 1473583020
+      },
+      {
+        "Value": 9147,
+        "Timestamp": 1473583080
+      },
+      {
+        "Value": 9284,
+        "Timestamp": 1473583140
+      },
+      {
+        "Value": 7918,
+        "Timestamp": 1473583200
+      },
+      {
+        "Value": 8738,
+        "Timestamp": 1473583260
+      },
+      {
+        "Value": 8192,
+        "Timestamp": 1473583320
+      },
+      {
+        "Value": 9011,
+        "Timestamp": 1473583380
+      },
+      {
+        "Value": 10649,
+        "Timestamp": 1473583440
+      },
+      {
+        "Value": 10103,
+        "Timestamp": 1473583500
+      },
+      {
+        "Value": 8192,
+        "Timestamp": 1473583560
+      },
+      {
+        "Value": 7399,
+        "Timestamp": 1473583620
+      },
+      {
+        "Value": 10376,
+        "Timestamp": 1473583680
+      },
+      {
+        "Value": 6553,
+        "Timestamp": 1473583740
+      },
+      {
+        "Value": 10513,
+        "Timestamp": 1473583800
+      },
+      {
+        "Value": 7236,
+        "Timestamp": 1473583860
+      },
+      {
+        "Value": 7782,
+        "Timestamp": 1473583920
+      },
+      {
+        "Value": 9420,
+        "Timestamp": 1473583980
+      },
+      {
+        "Value": 8601,
+        "Timestamp": 1473584040
+      },
+      {
+        "Value": 9147,
+        "Timestamp": 1473584100
+      },
+      {
+        "Value": 8465,
+        "Timestamp": 1473584160
+      },
+      {
+        "Value": 8055,
+        "Timestamp": 1473584220
+      },
+      {
+        "Value": 7645,
+        "Timestamp": 1473584280
+      },
+      {
+        "Value": 8738,
+        "Timestamp": 1473584340
+      },
+      {
+        "Value": 7645,
+        "Timestamp": 1473584400
+      },
+      {
+        "Value": 8465,
+        "Timestamp": 1473584460
+      },
+      {
+        "Value": 9557,
+        "Timestamp": 1473584520
+      },
+      {
+        "Value": 8874,
+        "Timestamp": 1473584580
+      },
+      {
+        "Value": 8055,
+        "Timestamp": 1473584640
+      },
+      {
+        "Value": 8720,
+        "Timestamp": 1473584700
+      },
+      {
+        "Value": 6826,
+        "Timestamp": 1473584760
+      },
+      {
+        "Value": 10240,
+        "Timestamp": 1473584820
+      },
+      {
+        "Value": 7918,
+        "Timestamp": 1473584880
+      },
+      {
+        "Value": 10103,
+        "Timestamp": 1473584940
+      },
+      {
+        "Value": 9011,
+        "Timestamp": 1473585000
+      },
+      {
+        "Value": 8055,
+        "Timestamp": 1473585060
+      },
+      {
+        "Value": 8328,
+        "Timestamp": 1473585120
+      },
+      {
+        "Value": 7645,
+        "Timestamp": 1473585180
+      },
+      {
+        "Value": 8055,
+        "Timestamp": 1473585240
+      },
+      {
+        "Value": 7918,
+        "Timestamp": 1473585300
+      },
+      {
+        "Value": 8465,
+        "Timestamp": 1473585360
+      },
+      {
+        "Value": 8192,
+        "Timestamp": 1473585420
+      },
+      {
+        "Value": 9966,
+        "Timestamp": 1473585480
+      },
+      {
+        "Value": 9011,
+        "Timestamp": 1473585540
+      }
+    ]
+  }
+}

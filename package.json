@@ -1,0 +1,50 @@
+{
+  "name": "easy-chart",
+  "version": "1.0.0",
+  "description": "echart in react,让图表更简单。so easy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --content-base ./ --devtool eval --display-error-details --progress --hot --inline --colors --history-api-fallback --port 15140"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shedong/easyChart.git"
+  },
+  "keywords": [
+    "echart",
+    "easy-chart",
+    "chart"
+  ],
+  "author": "metro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shedong/easyChart/issues"
+  },
+  "homepage": "https://github.com/shedong/easyChart#readme",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-0": "^6.5.0",
+    "babel-preset-stage-1": "^6.13.0",
+    "babel-preset-stage-2": "^6.13.0",
+    "babel-preset-stage-3": "^6.11.0",
+    "css-loader": "^0.25.0",
+    "json-loader": "^0.5.4",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "mockjs": "^1.0.1-beta3",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  },
+  "dependencies": {
+    "echarts": "^3.2.3",
+    "lodash": "^4.15.0",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  }
+}
