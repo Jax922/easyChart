@@ -1,11 +1,12 @@
 {
   "name": "easy-chart",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "echart in react,让图表更简单。so easy!",
-  "main": "index.js",
+  "main": "build/Chart.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack-dev-server --content-base ./ --devtool eval --display-error-details --progress --hot --inline --colors --history-api-fallback --port 15140"
+    "dev": "webpack-dev-server --content-base ./ --devtool eval --display-error-details --progress --hot --inline --colors --history-api-fallback --port 15140",
+    "build": "webpack --config webpack.build.js --progress"
   },
   "repository": {
     "type": "git",
@@ -43,7 +44,6 @@
   },
   "dependencies": {
     "echarts": "^3.2.3",
-    "lodash": "^4.15.0",
     "react": "^15.3.1",
     "react-dom": "^15.3.1"
   }

@@ -1,4 +1,7 @@
 /**
+ * Created by metrokobe on 16/9/17.
+ */
+/**
  * Created by metrokobe on 16/9/7.
  */
 const path = require('path');
@@ -6,13 +9,18 @@ const path = require('path');
 const ROOT = path.resolve(__dirname, './');
 const BUILD_DIR = path.resolve(__dirname, './build');
 const NODE_MODULES = path.resolve(__dirname, 'node_modules');
-const config = {//'webpack/hot/dev-server'
-    entry: {Chart: './src/charts/Chart.js', example: ['./example.js', 'webpack/hot/dev-server']},
+const config = {
+    entry: {Chart: './src/charts/Chart.js'},
     output: {
         path: BUILD_DIR,
         filename: '[name].js',
         libraryTarget: "umd",
         publicPath: 'http://127.0.0.1:15140/build/'
+    },
+    externals: {
+        "react": 'react',
+        'react-dom': 'react-dom',
+        'echarts': 'echarts'
     },
     resolve  : {
         root      : [ROOT, NODE_MODULES],

@@ -4,3 +4,6 @@ example.js
 index.html
 mockup
 example
+node_modules
+.DS_Store
+webpack.config.js
