@@ -15,9 +15,23 @@ echart in react,让图表更简单。so easy!
 
 #  栗 子
 
+引入easy-chart:
+```js
+ var Chart = require('easy-chart')
+ import Chart from 'easy-chart'
+```
 
-#  所有配置说明
- 
+要画一个图表很简单,如下:options是echarts配置文档,可以参考之;theme是主题提供额外的3种主题,如果用eachrts默认的不用传theme;width是图表的宽度。具体的参数说明请看下面。
+```html
+ <Chart options={options} theme="macarons" width="1000"/>
+```
+
+
+#  配置说明
+*  options(必须传递): 这个画图表的核心,具体需要参考echarts的options文档。
+*  theme(可选传递): 图表的主题,提供额外的3种,'macarons', 'roma', 'shine'。具体的参考echarts官方的。
+*  width(可选传递): 图表的宽度默认是600.
+*  height(可选传递): 图表的高度默认是400.
 
  
  
